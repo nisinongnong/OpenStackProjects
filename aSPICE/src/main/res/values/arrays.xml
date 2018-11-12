@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="setting_list">
+        <item>@string/delete_connection</item>
+        <item>@string/main_screen_help</item>
+    </array>
+    <array name="connection_opt_list">
+        <item>@string/disconnect</item>
+        <item>@string/main_screen_help</item>
+    </array>
+
+    <array name="server_action">
+        <item>开机</item>
+        <item>重置</item>
+        <item>重启</item>
+        <item>关机</item>
+        <item>连接</item>
+    </array>
+
+</resources>

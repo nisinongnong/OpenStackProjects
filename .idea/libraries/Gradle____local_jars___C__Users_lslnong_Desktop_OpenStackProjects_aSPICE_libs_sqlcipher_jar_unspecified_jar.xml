@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:C.\Users\lslnong\Desktop\OpenStackProjects\aSPICE\libs\sqlcipher.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aSPICE/libs/sqlcipher.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/aSPICE/libs/sqlcipher-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

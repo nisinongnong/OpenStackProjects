@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "E:\\OpenStackProjects\\ZoomerWithKeys\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 29,
+                    "endOffset": 80
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\ZoomerWithKeys\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 29,
+                        "endOffset": 80
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 85,
+                    "endColumn": 46,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\ZoomerWithKeys\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 85,
+                        "endColumn": 46,
+                        "endOffset": 127
+                    }
+                }
+            }
+        ]
+    }
+]
