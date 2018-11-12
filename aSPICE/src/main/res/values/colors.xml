@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="btn_unfocused">#D4D4D4</color>
-    <color name="btn_focused">#3F72DB</color>
-
-
-    <color name="remote_view_bg">#9A9DA2</color>
-</resources>
