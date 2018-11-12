@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="4dip">
+
+    <LinearLayout
+        style="@style/login_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_marginBottom="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cloud_launcher_title"
+            android:textSize="32sp"
+            android:textColor="@android:color/black" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/login_content"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/login_title"
+            android:text="@string/server_connection"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@android:color/black" />
+
+        <Button
+            android:id="@+id/spinnerConnection"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_bg_selector"
+            android:maxLines="1"
+            android:textColor="@android:color/black"
+            android:textSize="28sp" />
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        style="@style/login_content"
+        android:orientation="horizontal">
+        <TextView
+            style="@style/login_title"
+            android:text="@string/login_title"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@android:color/black" />
+
+        <EditText
+            android:id="@+id/textNickname"
+            style="@style/edit_text_style"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="@string/nickname_caption_hint"
+            android:maxLines="1"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        style="@style/login_content"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/login_title"
+            android:text="@string/server_address"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@android:color/black" />
+        <EditText
+            android:id="@+id/textIP"
+            style="@style/edit_text_style"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="@string/spice_address_caption_hint"
+            android:inputType="textNoSuggestions|textVisiblePassword"
+            android:maxLines="1"
+            android:nextFocusDown="@+id/textPORT" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/login_content"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/login_title"
+            android:text="@string/login_pwd"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@android:color/black" />
+        <EditText
+            android:id="@+id/textPASSWORD"
+            style="@style/edit_text_style"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="@string/spice_password_hint"
+            android:inputType="textNoSuggestions|textPassword"
+            android:maxLines="1"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/login_content"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/login_title"
+            android:text="@string/server_port"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@android:color/black" />
+
+        <EditText
+            android:id="@+id/textPORT"
+            style="@style/edit_text_style"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="@string/port_hint"
+            android:inputType="textNoSuggestions|textVisiblePassword"
+            android:maxLines="1"
+            android:minWidth="100dip"
+            android:nextFocusDown="@+id/caCertPath"  />
+    </LinearLayout>
+    <!-- android:text="5900" -->
+    <LinearLayout
+        style="@style/login_content"
+        android:paddingLeft="100dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonGO"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/btn_bg_selector"
+            android:maxLines="1"
+            android:text="@string/connect_button"
+            android:textColor="@android:color/black"
+            android:textSize="28sp" />
+
+        <CheckBox
+            android:id="@+id/checkboxKeepPassword"
+            style="@style/checkbox_style"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:text="@string/keep_password_button"
+            android:textColor="@android:color/black"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dip"
+        android:visibility="gone">
+
+        <ToggleButton
+            android:id="@+id/toggleAdvancedSettings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/show_advanced_settings"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutAdvancedSettings"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dip"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/textDescriptGeom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rdp_descript_geom"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Spinner
+                android:id="@+id/spinnerRdpGeometry"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.4"
+                android:entries="@array/rdp_geometry"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <EditText
+                android:id="@+id/rdpWidth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.3"
+                android:maxLines="1"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+<!-- android:text="x"-->
+            <EditText
+                android:id="@+id/rdpHeight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.3"
+                android:maxLines="1"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/local_device_tweaks"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <CheckBox
+            android:id="@+id/checkboxEnableSound"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left|center_vertical"
+            android:text="@string/enable_sound"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <CheckBox
+            android:id="@+id/checkboxUseLocalCursor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left|center_vertical"
+            android:text="@string/local_mouse_check"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_action_search.png"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\layout\\connection_setup_activity.xml",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\layout\\connection_setup_activity.xml"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\layout\\canvas.xml",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\layout\\canvas.xml"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\layout\\advanced_settings_activity.xml",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\layout\\advanced_settings_activity.xml"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\layout\\manage_custom_ca.xml",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\layout\\manage_custom_ca.xml"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\layout\\choice.xml",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\layout\\choice.xml"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\layout\\get_text.xml",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\layout\\get_text.xml"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\layout\\grid_view_activity.xml",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\layout\\grid_view_activity.xml"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\layout\\textelement.xml",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\layout\\textelement.xml"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\layout\\select_text.xml",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\layout\\select_text.xml"
+    }
+]

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_change_pwd"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context="com.jzby.vmwork.ChangePwdActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="500dp"
+            android:layout_height="80dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/dialog_btn_select"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="1"
+                android:text="@string/pwd_modify_title"
+                android:textColor="@android:color/white"
+                android:textSize="32sp" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            style="@style/login_content"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/login_title"
+                android:text="@string/login_title_username"
+                android:textColor="@android:color/black" />
+
+            <EditText
+                android:id="@+id/etUsername"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:textSize="22sp" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            style="@style/login_content"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/login_title"
+                android:text="@string/pwd_original"
+                android:textColor="@android:color/black" />
+
+            <EditText
+                android:id="@+id/etOldPwd"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:textSize="22sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/login_content"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/login_title"
+                android:clickable="false"
+                android:focusable="false"
+                android:text="@string/pwd_new"
+                android:textColor="@android:color/black" />
+
+            <EditText
+                android:id="@+id/etNewPwd"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:textSize="22sp" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            style="@style/login_content"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/login_title"
+                android:text="@string/pwd_new_confirm"
+                android:textColor="@android:color/black" />
+
+            <EditText
+                android:id="@+id/etNewConfirmPwd"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:textSize="22sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="500dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/btn_pwd_forget"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@drawable/dialog_btn_select"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center"
+                android:maxLines="1"
+                android:text="@string/pwd_change"
+                android:textColor="@android:color/black"
+                android:textSize="28sp" />
+            <View
+                android:layout_width="20dp"
+                android:layout_height="match_parent" />
+            <TextView
+                android:id="@+id/btn_pwd_return"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:background="@drawable/dialog_btn_select"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center"
+                android:maxLines="1"
+                android:text="@string/pwd_return"
+                android:textColor="@android:color/black"
+                android:textSize="28sp" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

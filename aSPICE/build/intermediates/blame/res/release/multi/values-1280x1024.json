@@ -1,0 +1,343 @@
+[
+    {
+        "outputFile": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-1280x1024\\values-1280x1024.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 4024,
+                        "endLine": 96,
+                        "endColumn": 12,
+                        "endOffset": 4324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 904
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 5081,
+                        "endLine": 125,
+                        "endColumn": 12,
+                        "endOffset": 5471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 909,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1230
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 4744,
+                        "endLine": 115,
+                        "endColumn": 12,
+                        "endOffset": 5071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1235,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1716,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2287
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2292,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 2685
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 4334,
+                        "endLine": 106,
+                        "endColumn": 12,
+                        "endOffset": 4734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2690,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 2969
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2974,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 3359
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2109,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 2501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3364,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 3583
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1880,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 2103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3588,
+                    "endLine": 75,
+                    "endColumn": 12,
+                    "endOffset": 3855
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1602,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3860,
+                    "endLine": 82,
+                    "endColumn": 12,
+                    "endOffset": 4185
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2507,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 2838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4190,
+                    "endLine": 89,
+                    "endColumn": 12,
+                    "endOffset": 4521
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2848,
+                        "endLine": 67,
+                        "endColumn": 12,
+                        "endOffset": 3185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4526,
+                    "endLine": 93,
+                    "endColumn": 12,
+                    "endOffset": 4667
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3193,
+                        "endLine": 72,
+                        "endColumn": 12,
+                        "endOffset": 3337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4672,
+                    "endLine": 96,
+                    "endColumn": 12,
+                    "endOffset": 4764
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3345,
+                        "endLine": 76,
+                        "endColumn": 12,
+                        "endOffset": 3439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4769,
+                    "endLine": 107,
+                    "endColumn": 12,
+                    "endOffset": 5328
+                },
+                "from": {
+                    "file": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\values-1280x1024\\styles.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3447,
+                        "endLine": 88,
+                        "endColumn": 12,
+                        "endOffset": 4016
+                    }
+                }
+            }
+        ]
+    }
+]

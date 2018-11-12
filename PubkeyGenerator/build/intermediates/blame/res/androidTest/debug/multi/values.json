@@ -1,0 +1,995 @@
+[
+    {
+        "outputFile": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 52,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 50,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 50,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 50,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 50,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 46,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 46,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 61,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 61,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endColumn": 77,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 77,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 110,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endColumn": 110,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 54,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 54,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 69,
+                    "endOffset": 681
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 69,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 686,
+                    "endColumn": 63,
+                    "endOffset": 745
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 63,
+                        "endOffset": 745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 750,
+                    "endColumn": 58,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 750,
+                        "endColumn": 58,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 809,
+                    "endColumn": 115,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 115,
+                        "endOffset": 920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 76,
+                    "endOffset": 997
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 76,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1002,
+                    "endColumn": 61,
+                    "endOffset": 1059
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endColumn": 61,
+                        "endOffset": 1059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1064,
+                    "endColumn": 46,
+                    "endOffset": 1106
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1064,
+                        "endColumn": 46,
+                        "endOffset": 1106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1111,
+                    "endColumn": 68,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1111,
+                        "endColumn": 68,
+                        "endOffset": 1175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endColumn": 67,
+                    "endOffset": 1243
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1180,
+                        "endColumn": 67,
+                        "endOffset": 1243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1248,
+                    "endColumn": 59,
+                    "endOffset": 1303
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1248,
+                        "endColumn": 59,
+                        "endOffset": 1303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1308,
+                    "endColumn": 66,
+                    "endOffset": 1370
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1308,
+                        "endColumn": 66,
+                        "endOffset": 1370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1375,
+                    "endColumn": 64,
+                    "endOffset": 1435
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1375,
+                        "endColumn": 64,
+                        "endOffset": 1435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1440,
+                    "endColumn": 64,
+                    "endOffset": 1500
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1440,
+                        "endColumn": 64,
+                        "endOffset": 1500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1505,
+                    "endColumn": 54,
+                    "endOffset": 1555
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1505,
+                        "endColumn": 54,
+                        "endOffset": 1555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1560,
+                    "endColumn": 70,
+                    "endOffset": 1626
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1560,
+                        "endColumn": 70,
+                        "endOffset": 1626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1631,
+                    "endColumn": 68,
+                    "endOffset": 1695
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1631,
+                        "endColumn": 68,
+                        "endOffset": 1695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1700,
+                    "endColumn": 99,
+                    "endOffset": 1795
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1700,
+                        "endColumn": 99,
+                        "endOffset": 1795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1800,
+                    "endColumn": 69,
+                    "endOffset": 1865
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1800,
+                        "endColumn": 69,
+                        "endOffset": 1865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1870,
+                    "endColumn": 62,
+                    "endOffset": 1928
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1870,
+                        "endColumn": 62,
+                        "endOffset": 1928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1933,
+                    "endColumn": 79,
+                    "endOffset": 2008
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1933,
+                        "endColumn": 79,
+                        "endOffset": 2008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2013,
+                    "endColumn": 68,
+                    "endOffset": 2077
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2013,
+                        "endColumn": 68,
+                        "endOffset": 2077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2082,
+                    "endColumn": 50,
+                    "endOffset": 2128
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2082,
+                        "endColumn": 50,
+                        "endOffset": 2128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2133,
+                    "endColumn": 94,
+                    "endOffset": 2223
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2133,
+                        "endColumn": 94,
+                        "endOffset": 2223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2228,
+                    "endColumn": 113,
+                    "endOffset": 2337
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2228,
+                        "endColumn": 113,
+                        "endOffset": 2337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2342,
+                    "endColumn": 64,
+                    "endOffset": 2402
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2342,
+                        "endColumn": 64,
+                        "endOffset": 2402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2407,
+                    "endColumn": 68,
+                    "endOffset": 2471
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2407,
+                        "endColumn": 68,
+                        "endOffset": 2471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2476,
+                    "endColumn": 65,
+                    "endOffset": 2537
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2476,
+                        "endColumn": 65,
+                        "endOffset": 2537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2542,
+                    "endColumn": 69,
+                    "endOffset": 2607
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2542,
+                        "endColumn": 69,
+                        "endOffset": 2607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2612,
+                    "endColumn": 85,
+                    "endOffset": 2693
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2612,
+                        "endColumn": 85,
+                        "endOffset": 2693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2698,
+                    "endColumn": 83,
+                    "endOffset": 2777
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2698,
+                        "endColumn": 83,
+                        "endOffset": 2777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2782,
+                    "endColumn": 67,
+                    "endOffset": 2845
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2782,
+                        "endColumn": 67,
+                        "endOffset": 2845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2850,
+                    "endColumn": 101,
+                    "endOffset": 2947
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2850,
+                        "endColumn": 101,
+                        "endOffset": 2947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2952,
+                    "endColumn": 83,
+                    "endOffset": 3031
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2952,
+                        "endColumn": 83,
+                        "endOffset": 3031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3036,
+                    "endColumn": 81,
+                    "endOffset": 3113
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3036,
+                        "endColumn": 81,
+                        "endOffset": 3113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3118,
+                    "endColumn": 65,
+                    "endOffset": 3179
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3118,
+                        "endColumn": 65,
+                        "endOffset": 3179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3184,
+                    "endColumn": 99,
+                    "endOffset": 3279
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3184,
+                        "endColumn": 99,
+                        "endOffset": 3279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3284,
+                    "endColumn": 65,
+                    "endOffset": 3345
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3284,
+                        "endColumn": 65,
+                        "endOffset": 3345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3350,
+                    "endColumn": 59,
+                    "endOffset": 3405
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3350,
+                        "endColumn": 59,
+                        "endOffset": 3405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3410,
+                    "endColumn": 150,
+                    "endOffset": 3556
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3410,
+                        "endColumn": 150,
+                        "endOffset": 3556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3561,
+                    "endColumn": 98,
+                    "endOffset": 3655
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3561,
+                        "endColumn": 98,
+                        "endOffset": 3655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3660,
+                    "endColumn": 66,
+                    "endOffset": 3722
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3660,
+                        "endColumn": 66,
+                        "endOffset": 3722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3727,
+                    "endColumn": 83,
+                    "endOffset": 3806
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3727,
+                        "endColumn": 83,
+                        "endOffset": 3806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3811,
+                    "endColumn": 57,
+                    "endOffset": 3864
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 3811,
+                        "endColumn": 57,
+                        "endOffset": 3864
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\act_generatepubkey.xml",
+        "source": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\layout\\act_generatepubkey.xml"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dia_gatherentropy.xml",
+        "source": "E:\\OpenStackProjects\\PubkeyGenerator\\build\\intermediates\\bundles\\debug\\res\\layout\\dia_gatherentropy.xml"
+    }
+]

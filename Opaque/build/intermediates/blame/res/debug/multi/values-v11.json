@@ -1,0 +1,70 @@
+[
+    {
+        "outputFile": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 804
+                    }
+                }
+            }
+        ]
+    }
+]

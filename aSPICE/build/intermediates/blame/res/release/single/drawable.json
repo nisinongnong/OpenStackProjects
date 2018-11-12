@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\ctrloff.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\ctrloff.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\shiftoff.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\shiftoff.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\edit_text_bg_selector.xml",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\edit_text_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\upon.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\upon.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\icon_ardp.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\icon_ardp.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\tabon.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\tabon.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\pb_loading.xml",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\pb_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\single_cancel.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\single_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\shifton.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\shifton.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_close.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\keyboard_close.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\superoff.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\superoff.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\single_middle.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\single_middle.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\altoff.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\altoff.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\blankoff.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\blankoff.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\downoff.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\downoff.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\ll_login_bg.xml",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\ll_login_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\leftoff.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\leftoff.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\rightoff.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\rightoff.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\mouse_icon.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\mouse_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\superon.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\superon.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\showkeys.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\showkeys.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\loading.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\icon_aspice.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\icon_aspice.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_btn_select.xml",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\dialog_btn_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\pb_bg.xml",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\pb_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\single_zoom.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\single_zoom.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox_bg.xml",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\checkbox_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\escon.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\escon.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\single_right.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\single_right.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\single_left.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\single_left.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\blankon.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\blankon.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\btn_bg_selector.xml",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\btn_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\hidekeys.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\hidekeys.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\upoff.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\upoff.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\menu_bg_selector.xml",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\menu_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\single_scroll.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\single_scroll.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\lefton.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\lefton.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\connect_menu_bg.xml",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\connect_menu_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\downon.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\downon.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\extra_keys.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\extra_keys.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\remote_layer.xml",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\remote_layer.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\remote_bg.xml",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\remote_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\alton.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\alton.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\ctrlon.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\ctrlon.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\keyboard_open.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\keyboard_open.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\taboff.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\taboff.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\escoff.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\escoff.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_btn_unselect.xml",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\dialog_btn_unselect.xml"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\righton.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable\\righton.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\lslnong\\.android\\build-cache\\b8efdc7da204e7367db36f88fcb44e9943faacfc\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    }
+]

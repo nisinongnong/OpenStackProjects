@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\checkbox_selected.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable-hdpi\\checkbox_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\checkbox_unselect.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable-hdpi\\checkbox_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\mouse_icon.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable-hdpi\\mouse_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\cursor.png",
+        "source": "C:\\Users\\lslnong\\Desktop\\OpenStackProjects\\aSPICE\\src\\main\\res\\drawable-hdpi\\cursor.png"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\single_zoom.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\single_zoom.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\single_cancel.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\single_cancel.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\altoff.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\altoff.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\single_left.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\single_left.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\superon.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\superon.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\single_middle.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\single_middle.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\shifton.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\shifton.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\single_right.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\single_right.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\lefton.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\lefton.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\extra_keys.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\extra_keys.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\escoff.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\escoff.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\superoff.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\superoff.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\rightoff.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\rightoff.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\blankoff.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\blankoff.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\righton.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\righton.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ardp.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\icon_ardp.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\taboff.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\taboff.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\ctrloff.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\ctrloff.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\hidekeys.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\hidekeys.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\tabon.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\tabon.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\mouse_icon.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\mouse_icon.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\upoff.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\upoff.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\escon.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\escon.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\upon.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\upon.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\showkeys.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\showkeys.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_aspice.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\icon_aspice.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\blankon.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\blankon.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\downoff.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\downoff.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\shiftoff.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\shiftoff.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\downon.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\downon.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\alton.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\alton.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\ctrlon.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\ctrlon.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\leftoff.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\leftoff.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\single_scroll.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\single_scroll.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable\\no_screenshot.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable\\no_screenshot.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_delete.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable-xhdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_new.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\drawable-xhdpi\\ic_action_new.png"
+    }
+]

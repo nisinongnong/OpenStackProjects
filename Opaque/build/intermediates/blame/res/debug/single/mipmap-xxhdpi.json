@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

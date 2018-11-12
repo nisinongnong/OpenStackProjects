@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\menu\\connectedmenu.xml",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\menu\\connectedmenu.xml"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\menu\\connection_setup_activity_actions.xml",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\menu\\connection_setup_activity_actions.xml"
+    },
+    {
+        "merged": "E:\\OpenStackProjects\\Opaque\\build\\intermediates\\res\\merged\\debug\\menu\\grid_view_activity_actions.xml",
+        "source": "E:\\OpenStackProjects\\Opaque\\src\\main\\res\\menu\\grid_view_activity_actions.xml"
+    }
+]

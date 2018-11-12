@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\lslnong\Desktop\OpenStackProjects\aSPICE\src\main\jniLibs"><file name="armeabi-v7a/libspice.so" path="C:\Users\lslnong\Desktop\OpenStackProjects\aSPICE\src\main\jniLibs\armeabi-v7a\libspice.so"/></source></dataSet><dataSet config="debug"><source path="C:\Users\lslnong\Desktop\OpenStackProjects\aSPICE\src\debug\jniLibs"/></dataSet></merger>
